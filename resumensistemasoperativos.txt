@@ -1,0 +1,37 @@
+Resumen sistemas operativos, ¿Qué es? Y Historia de los sistemas operativos:
+
+El sistema operativo es el conjunto de programas que nos permite controlar y
+administrar los softwares de aplicación, así como ser la capa intermedia entre
+hardware y usuario.
+Los sistemas operativos más populares son Windows, Android, Linux, MacOS donde
+el sistema operativo más popular a nivel computadora de escritorio es Windows.
+
+Los sistemas operativos deben tener la capacidad de crecer independientemente
+de su uso por los usuarios, esto es que se puedan actualizar sin interferir con
+el trabajo de los usuarios en los mismos, también debe tener la capacidad de
+relacionar nuevos dispositivos periféricos con la computadora como mouse, teclado,
+tabletas de dibujo etc., así como recibir entradas de estos y poder generar salidas
+de forma óptima, también debe permitir la interconexión con otras computadoras.
+
+Dentro de los tipos de sistemas operativos, una forma de catalogar sistemas operativos
+es ser multitarea o monotarea, lo cual significa poder hacer muchas acciones a la vez
+o solo una, también pueden ser monousuario o multiusuario.
+
+El primer SO fue CTSS en 1961 y en años posteriores salió sucesivamente EXEC 8, EXEC 9,
+OS360, UNIX, batch 11, OS/8, VM, AltoOS, CP/M, Apple Dos, QDOS, MSDOS, SunOS, Ultrix,
+LisaOS, Novell Net/Ware, MacOS, Linux, Plan 9, Windows 95, WindowsNT, Windows 2000,
+Windows XP, Ubuntu, MAC OSX 10.4, Windows Vista, Windows 7, iOS, Android, Windows Phone,
+Windows 8, Windows 10.
+
+Hay que resaltar la creación de UNIX el cual fue un punto de partida para varios sistemas
+posteriores, así como Apple DOS de la reconocida compañía Apple, MSDOS fue un sistema
+comprado por Microsoft, Ultrix fue de los primeros en llegar a crear una bonita interfaz
+gráfica, LisaOS creo controversia dado que genero conflicto entre Microsoft y Apple, MacOS
+fue la base por la cual han evolucionado los OS de Apple, Linux esta basado en UNIX y a
+partir de este están basados muchos otros sistemas operativos, a partir de Windows 95,
+empezaron a salir nuevas versiones de Windows donde cada una se vendió individualmente, luego
+Mac OSX 10.4 implemento CD/DVD, posteriormente llego el OS para dispositivos móviles por parte
+de Apple, Android que está basado en Linux esta pensado para dispositivos móviles, visto esto
+Windows también quiso competir en la carrera de SO para celulares que es Windows Phone, así
+llegamos a la actualidad donde los titanes de la industria son Windows, Apple y Linux, y para
+esta ultima todas las distribuciones basadas en Linux.
